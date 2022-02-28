@@ -4,10 +4,10 @@
     "url": "https://atlanta-bot.fr",
     "icon": "https://favicons.githubusercontent.com/atlanta-bot.fr",
     "slug": "core-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
@@ -15,7 +15,9 @@
     "timeWeek": 184,
     "timeMonth": 265,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 1
+    }
   },
   {
     "name": "Dashboard (Hosted)",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/dashboard.atlanta-bot.fr",
     "slug": "dashboard-hosted",
     "status": "down",
-    "uptime": "69.99%",
+    "uptime": "69.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.30%",
-    "uptimeYear": "69.99%",
+    "uptimeMonth": "53.66%",
+    "uptimeYear": "69.62%",
     "time": 818,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 804,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2022-02-28": 52,
+      "2022-02-28": 771,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
@@ -84,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-02-28": 52,
+      "2022-02-28": 771,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
